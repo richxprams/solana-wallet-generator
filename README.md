@@ -19,7 +19,7 @@ Proyek ini adalah generator wallet untuk jaringan Solana yang dapat membuat wall
    ```
 4. Install dependensi yang dibutuhkan:
    ```bash
-   npm install
+   npm install @solana/web3.js bip39
    ```
 
 ## Cara Penggunaan
